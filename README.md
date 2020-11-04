@@ -4,9 +4,9 @@ contains implementation of few famous modes of implementation of block ciphers
 
 ## TOC
 
-* [Electronic CodeBook](#Electronic-CodeBook) - [code](./ecb.py)
-* [Continuous Block Chaining](#Continuous-Block-Chaining) - [code](./cbc.py)
-* [Propagating Continuous Block Chaining](#Propagating-Continuous-Block-Chaining) - [code](./pcbc.py)
+* [Electronic CodeBook](#Electronic-CodeBook) - [code](./ECB.py)
+* [Continuous Block Chaining](#Continuous-Block-Chaining) - [code](./CBC.py)
+* [Propagating Continuous Block Chaining](#Propagating-Continuous-Block-Chaining) - [code](./PCBC.py)
 
 ## Concept
 
